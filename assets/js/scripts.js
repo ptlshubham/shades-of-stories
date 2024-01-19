@@ -665,7 +665,7 @@ function initValik() {
             });
         }
         var greenIcon = L.icon({
-            iconUrl: 'images/marker.png',
+            iconUrl: 'assets/images/marker.png',
             iconSize: [40, 40],
             popupAnchor: [0, -26]
         });
